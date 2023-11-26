@@ -1,0 +1,2 @@
+# Hi, I`m Andrii
+I'm a Java developer with deep knowledge of OOP, Java Core,  Algorithms and Data Structures, Multithreading, JavaFX, Spring Boot, Spring Security(including JWT), Spring REST, MVC, Spring Data JPA, JDBC, Hibernate, JUnit&Mockito, Docker, Microservices architecture. I have a deep understanding of key concepts like dependency injection and inversion of control, which are fundamental to Spring. Additionally, I have experience with Postgresql, MySQL, MSSQL and OracleSQL for database operations.
